@@ -1,0 +1,122 @@
+@font-face {
+  font-family: hafs;
+  src: url("_hafs.ttf");
+}
+.card {
+  font-family: hafs;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  background-color: white;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+.nightMode .header {
+  filter: invert(1);
+}
+.wrapper {
+  display: grid;
+  direction: rtl;
+  grid-template-columns: repeat(auto-fit, minmax(23vw, 20vw));
+}
+p {
+  font-size: 2vw;
+  direction: rtl;
+}
+.prior {
+  word-spacing: 1vw;
+  text-align: center;
+  padding-top: 3vw;
+}
+.en {
+  font-family: sans-serif;
+  direction: ltr;
+}
+.container {
+  position: relative;
+  height: 1vw;
+}
+.header {
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+.name {
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  font-size: 2vw;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.juz {
+  position: absolute;
+  top: -150%;
+  left: 10.4%;
+  font-size: 2vw;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.juzRef {
+  position: absolute;
+  top: 80%;
+  left: 10.4%;
+  font-size: 2vw;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.sura {
+  position: absolute;
+  top: -130%;
+  left: 89.9%;
+  font-size: 1.5vw;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.suraRef {
+  position: absolute;
+  top: 80%;
+  left: 89.9%;
+  font-size: 2vw;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.eName {
+  position: absolute;
+  top: 0%;
+  left: 75.1%;
+  font-size: 2vw;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.tName {
+  position: absolute;
+  top: 0%;
+  left: 25%;
+  font-size: 2vw;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.header {
+  max-width: 100%;
+  max-height: none;
+}
+.mobile .juz,
+.mobile .juzRef,
+.mobile .eName,
+.mobile .name,
+.mobile .tName,
+.mobile .sura,
+.mobile .suraRef,
+.mobile p {
+  font-size: 3vw;
+}
+.mobile p {
+  font-size: 4vw;
+}
