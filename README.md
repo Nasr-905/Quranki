@@ -2,7 +2,7 @@
 
 <a href="https://ankiweb.net/shared/info/973737942">Link to anki deck</a>
 
-If you have any issues with this deck please navigate to the <a href="https://docs.google.com/document/d/1OvlHPNQn37qkWl8MICtfGcbtAzwE90HX6DeNDAhnnMQ/edit?usp=sharing">support document</a> and post an issue or feature recommendation
+If you have any issues with this deck please navigate to the <a href="https://docs.google.com/document/d/1cLSVom2BS6nR4fJNYLqEMbm9leRIdf84HR6t9ZnSRQs/edit?usp=sharing">support document</a> and post an issue or feature recommendation
 
 Ankiweb allows me to share only 250MB per deck, so only the Juz 27-30 are given. The full deck is linked in the <a href="https://docs.google.com/document/d/1OvlHPNQn37qkWl8MICtfGcbtAzwE90HX6DeNDAhnnMQ/edit?usp=sharing">support document</a> via Google Drive or you can download it <a href="https://drive.google.com/file/d/1pdGUYQT8yOG6nTUddxDM_YVhnmn4PD1-/view?usp=sharing">here</a>.
 
